@@ -5,6 +5,43 @@
     <link>https://mhovanic.github.io/tags/</link>
     <description>Recent content in Tags on Saas Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mhovanic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jan 2023 14:04:37 -0500</lastBuildDate><atom:link href="https://mhovanic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://mhovanic.github.io/tags/about/</link>
+      <pubDate>Mon, 23 Jan 2023 14:04:37 -0500</pubDate>
+      
+      <guid>https://mhovanic.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://mhovanic.github.io/tags/me/</link>
+      <pubDate>Mon, 23 Jan 2023 14:04:37 -0500</pubDate>
+      
+      <guid>https://mhovanic.github.io/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://mhovanic.github.io/tags/hello/</link>
+      <pubDate>Mon, 23 Jan 2023 14:04:32 -0500</pubDate>
+      
+      <guid>https://mhovanic.github.io/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World</title>
+      <link>https://mhovanic.github.io/tags/world/</link>
+      <pubDate>Mon, 23 Jan 2023 14:04:32 -0500</pubDate>
+      
+      <guid>https://mhovanic.github.io/tags/world/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
