@@ -25,5 +25,14 @@
       <description>Hello World </description>
     </item>
     
+    <item>
+      <title>this is my second post</title>
+      <link>https://mhovanic.github.io/blog/post_2/</link>
+      <pubDate>Mon, 23 Jan 2023 14:04:32 -0500</pubDate>
+      
+      <guid>https://mhovanic.github.io/blog/post_2/</guid>
+      <description>Learning All about Markdown How do I use Parapgraphs I need to learn how to write in markdown</description>
+    </item>
+    
   </channel>
 </rss>
